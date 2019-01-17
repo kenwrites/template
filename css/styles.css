@@ -1,0 +1,7 @@
+/* Box sizing, with backwards browser compatibility to IE8 */
+
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
