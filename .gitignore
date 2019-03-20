@@ -1,4 +1,12 @@
 
+##########################################################
+# Ken's custom .gitignore rules
+##########################################################
+
+project-files/
+
+
+
 # Created by https://www.gitignore.io/api/node,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,visualstudiocode
 
@@ -141,6 +149,9 @@ dist/
 *.css.map
 *.sass.map
 *.scss.map
+
+
+
 
 # End of https://www.gitignore.io/api/sass
 
